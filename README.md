@@ -4,9 +4,6 @@ I have created a text-based space adventure and exploration game inspired by the
 
 The aim of the game is to earn 10,000 credits to pay off a debt the player has
 
-GitHub Repository Link:
-https://olympuss.ntu.ac.uk/N1189530/Python-Project
-
 # Initialisation 
 
 Players are able to choose between 3 save slots
